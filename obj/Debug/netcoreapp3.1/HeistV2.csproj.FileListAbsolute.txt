@@ -1,0 +1,10 @@
+/Users/coffeymay/workspace/HeistV2/bin/Debug/netcoreapp3.1/HeistV2.deps.json
+/Users/coffeymay/workspace/HeistV2/bin/Debug/netcoreapp3.1/HeistV2.runtimeconfig.json
+/Users/coffeymay/workspace/HeistV2/bin/Debug/netcoreapp3.1/HeistV2.runtimeconfig.dev.json
+/Users/coffeymay/workspace/HeistV2/bin/Debug/netcoreapp3.1/HeistV2.dll
+/Users/coffeymay/workspace/HeistV2/bin/Debug/netcoreapp3.1/HeistV2.pdb
+/Users/coffeymay/workspace/HeistV2/obj/Debug/netcoreapp3.1/HeistV2.csprojAssemblyReference.cache
+/Users/coffeymay/workspace/HeistV2/obj/Debug/netcoreapp3.1/HeistV2.AssemblyInfoInputs.cache
+/Users/coffeymay/workspace/HeistV2/obj/Debug/netcoreapp3.1/HeistV2.AssemblyInfo.cs
+/Users/coffeymay/workspace/HeistV2/obj/Debug/netcoreapp3.1/HeistV2.dll
+/Users/coffeymay/workspace/HeistV2/obj/Debug/netcoreapp3.1/HeistV2.pdb
